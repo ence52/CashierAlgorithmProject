@@ -1,0 +1,11 @@
+D:\C# ODEVLER\CashierAlgorithmForm\CashierAlgorithmForm\bin\Debug\CashierAlgorithmForm.exe.config
+D:\C# ODEVLER\CashierAlgorithmForm\CashierAlgorithmForm\bin\Debug\CashierAlgorithmForm.exe
+D:\C# ODEVLER\CashierAlgorithmForm\CashierAlgorithmForm\bin\Debug\CashierAlgorithmForm.pdb
+D:\C# ODEVLER\CashierAlgorithmForm\CashierAlgorithmForm\obj\Debug\CashierAlgorithmForm.csproj.AssemblyReference.cache
+D:\C# ODEVLER\CashierAlgorithmForm\CashierAlgorithmForm\obj\Debug\CashierAlgorithmForm.csproj.SuggestedBindingRedirects.cache
+D:\C# ODEVLER\CashierAlgorithmForm\CashierAlgorithmForm\obj\Debug\CashierAlgorithmForm.Form1.resources
+D:\C# ODEVLER\CashierAlgorithmForm\CashierAlgorithmForm\obj\Debug\CashierAlgorithmForm.Properties.Resources.resources
+D:\C# ODEVLER\CashierAlgorithmForm\CashierAlgorithmForm\obj\Debug\CashierAlgorithmForm.csproj.GenerateResource.cache
+D:\C# ODEVLER\CashierAlgorithmForm\CashierAlgorithmForm\obj\Debug\CashierAlgorithmForm.csproj.CoreCompileInputs.cache
+D:\C# ODEVLER\CashierAlgorithmForm\CashierAlgorithmForm\obj\Debug\CashierAlgorithmForm.exe
+D:\C# ODEVLER\CashierAlgorithmForm\CashierAlgorithmForm\obj\Debug\CashierAlgorithmForm.pdb
